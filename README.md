@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-daniel.jaworski1999@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daniel.jaworski1999@gmail.com)](mailto:daniel.jaworski1999@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-danjaw1999-grey?style=flat&logo=github&logoColor=white&link=https://github.com/danjaw1999/)](https://www.github.com/danjaw1999/)
 <a href="https://www.linkedin.com/in/daniel-jaworski1999"><img src=https://static-exp1.licdn.com/sc/h/95o6rrc5ws6mlw6wqzy0xgj7y height=20 alt=LinkedIn> </a>
-<p align='left'>My name is Daniel, i just finished a programming bootcamp in Coders Lab (Javascript-React Developer), still learning, and looking for job. I'm working right now in Artlook Gallery like as Junior Web Developer.</p><p align='left'> You can view my CV <a href='https://drive.google.com/drive/folders/1yiJBW9NpYtMghYDq3qRuUemei-mnyXH5 ' target=_blank><u>here</u>.</a>
+<p align='left'>My name is Daniel, i just finished a programming bootcamp in Coders Lab (Javascript-React Developer + Node.js), still learning. I'm working right now in Merce like as Junior Frontend Developer in Angular.js + TypeScript.</p><p align='left'> You can view my CV <a href='https://drive.google.com/drive/folders/1yiJBW9NpYtMghYDq3qRuUemei-mnyXH5 ' target=_blank><u>here</u>.</a>
 
 </p>
 ## Some of my Github Stats
